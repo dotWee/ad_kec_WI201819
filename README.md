@@ -13,3 +13,11 @@ Folgende Aufgaben wurden bearbeitet und sind sortiert nach Blatt/Aufgabe im Unte
   - [x] [Aufgabe 4](/uebungen/blatt_01/aufgabe_04/) (Aufwandsberechnung)
 
     Notiz: Teilaufgabe 4b) wurde nicht bearbeitet, da Ergebnisse von 4a) möglicherweise fehlerhaft sind.
+
+## Markdown2pdf
+
+```bash
+$ npm install -g markdown-pdf
+$ markdown-pdf [.md FILES]
+...
+```
