@@ -16,8 +16,16 @@ Folgende Aufgaben wurden bearbeitet und sind sortiert nach Blatt/Aufgabe im Unte
 
 ## Markdown2pdf
 
+Installieren:
+
 ```bash
 $ npm install -g markdown-pdf
-$ markdown-pdf [.md FILES]
+...
+```
+
+Alle Markdowns in Unterordnern rendern:
+
+```bash
+$ for readme in `find . -name '*.md'`; do markdown-pdf $readme -o $(echo $readme | sed 's/README.md/Abgabe.pdf/g'); done
 ...
 ```
