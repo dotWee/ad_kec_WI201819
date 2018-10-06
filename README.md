@@ -9,5 +9,5 @@ Folgende Aufgaben wurden bearbeitet und sind sortiert nach Blatt/Aufgabe im Unte
 - [ ] [Übungsblatt 1](/uebungen/blatt_01/) (_Abgabe bis 08.10.2018_)
   - [x] [Aufgabe 1](/uebungen/blatt_01/aufgabe_01/) (Euklidischer Algorithmus)
   - [x] [Aufgabe 2](/uebungen/blatt_01/aufgabe_02/) (Abstrakter Datentyp)
-  - [ ] [Aufgabe 3](/uebungen/blatt_01/aufgabe_03/) (Abstrakter Datentyp)
+  - [x] [Aufgabe 3](/uebungen/blatt_01/aufgabe_03/) (Abstrakter Datentyp)
   - [ ] [Aufgabe 4](/uebungen/blatt_01/aufgabe_04/) (Aufwandsberechnung)
