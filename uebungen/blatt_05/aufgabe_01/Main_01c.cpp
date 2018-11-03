@@ -6,7 +6,7 @@ using namespace std;
 
 void printvector(vector<int> input)
 {
-    for (int index = 0; index <= 4; ++index)
+    for (int index = 0; index < input.size(); ++index)
     {
         cout << input.at(index) << " ";
     }
@@ -64,6 +64,9 @@ void mergesort(int *input, int left, int right, int *target)
 
 void execmergesort(vector<int> input)
 {
+    cout << "Input MergeSort:  ";
+    printvector(input);
+
     int target[input.size()];
     mergesort(&input[0], 0, input.size(), target);
 
@@ -97,6 +100,9 @@ void heapsort(int *input, int size, int index)
 
 void execheapsort(vector<int> input)
 {
+    cout << "Input HeapSort:  ";
+    printvector(input);
+
     int size = input.size();
 
     for (int index = size / 2 - 1; index >= 0; index--)
@@ -120,7 +126,7 @@ int main(int argc, char *argv[])
 
     // Define input
     int arr[] = {-5, 13, -32, 7, -3, 17, 23, 12, -35, 19};
-    vector<int> input(arr, arr + sizeof arr / sizeof arr[0]);
+    vector<int> input(begin(arr), end(arr));
 
     // Mergesort
     vector<int> inputMergesort(input);

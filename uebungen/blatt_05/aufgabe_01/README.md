@@ -6,9 +6,17 @@ a[] = [−5,13,−32,7,−3,17,23,12,−35,19].
 
 > Führen Sie die Demonstration von Mergesort anhand eines Rekursionsbaums durch, indem Sie den Baum in der Phase ”Teilen“ von oben nach unten aufbauen und anschließend in der Phase ”Mischen“ von unten nach oben durchlaufen. Nennen Sie jeweils die entstandenen Teilfolgen.
 
-Eine Implementierung in C++ der Sortieralgorithmen MergeSort und HeapSort kann in der Quelldatei [Main_01a.cpp](Main_01a.cpp) betrachtet werden.
+## b)
 
-Datei `Main_01a.cpp`:
+> Führen Sie bei der Demonstration von Heapsort sowohl entstehende Bäume als auch entstehende Felder mit.
+
+## c)
+
+> Überprüfen Sie Ihre Ausführungen aus a) und b) mithilfe eines C, C++, C# oder Java-Programms, das die beiden Sortierverfahren implementiert und die wesentlichen Informationen ausgibt.
+
+Eine Implementierung in C++ der Sortieralgorithmen MergeSort und HeapSort kann in der Quelldatei [Main_01c.cpp](Main_01c.cpp) betrachtet werden.
+
+Datei `Main_01c.cpp`:
 
 ```cpp
 #include <iostream>
@@ -19,7 +27,7 @@ using namespace std;
 
 void printvector(vector<int> input)
 {
-    for (int index = 0; index <= 4; ++index)
+    for (int index = 0; index < input.size(); ++index)
     {
         cout << input.at(index) << " ";
     }
@@ -77,6 +85,9 @@ void mergesort(int *input, int left, int right, int *target)
 
 void execmergesort(vector<int> input)
 {
+    cout << "Input MergeSort:  ";
+    printvector(input);
+
     int target[input.size()];
     mergesort(&input[0], 0, input.size(), target);
 
@@ -110,6 +121,9 @@ void heapsort(int *input, int size, int index)
 
 void execheapsort(vector<int> input)
 {
+    cout << "Input HeapSort:  ";
+    printvector(input);
+
     int size = input.size();
 
     for (int index = size / 2 - 1; index >= 0; index--)
@@ -133,7 +147,7 @@ int main(int argc, char *argv[])
 
     // Define input
     int arr[] = {-5, 13, -32, 7, -3, 17, 23, 12, -35, 19};
-    vector<int> input(arr, arr + sizeof arr / sizeof arr[0]);
+    vector<int> input(begin(arr), end(arr));
 
     // Mergesort
     vector<int> inputMergesort(input);
@@ -146,11 +160,3 @@ int main(int argc, char *argv[])
     return 0;
 }
 ```
-
-## b)
-
-Führen Sie bei der Demonstration von Heapsort sowohl entstehende Bäume als auch entstehende Felder mit.
-
-## c)
-
-Überprüfen Sie Ihre Ausführungen aus a) und b) mithilfe eines C, C++, C# oder Java-Programms, das die beiden Sortierverfahren implementiert und die wesentlichen Informationen ausgibt.
