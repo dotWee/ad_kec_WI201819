@@ -34,7 +34,7 @@ Folgende Aufgaben wurden bearbeitet und sind sortiert nach Blatt/Aufgabe im Unte
 
 - [ ] Übungsblatt 5
   - [x] [Aufgabe 1](/uebungen/blatt_05/aufgabe_01/) (MergeSort und HeapSort)
-  - [ ] [Aufgabe 2](/uebungen/blatt_05/aufgabe_02/) (Implementierung eines Algorithmus)
+  - [x] [Aufgabe 2](/uebungen/blatt_05/aufgabe_02/) (Implementierung eines Algorithmus)
   - [ ] [Aufgabe 3](/uebungen/blatt_05/aufgabe_03/) (Heaps)
   - [ ] [Aufgabe 4](/uebungen/blatt_05/aufgabe_04/) (Matrixprodukt)
 
