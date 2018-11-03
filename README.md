@@ -14,11 +14,29 @@ Folgende Aufgaben wurden bearbeitet und sind sortiert nach Blatt/Aufgabe im Unte
 
     Notiz: Teilaufgabe 4b) wurde nicht bearbeitet, da Ergebnisse von 4a) möglicherweise fehlerhaft sind.
 
+- [ ] Übungsblatt 2
+  - [ ] [Aufgabe 1](/uebungen/blatt_02/aufgabe_01/) (Registermaschinensimulator)
+  - [ ] [Aufgabe 2](/uebungen/blatt_02/aufgabe_02/) (O-Notation)
+  - [ ] [Aufgabe 3](/uebungen/blatt_02/aufgabe_03/) (O-Notation)
+  - [ ] [Aufgabe 4](/uebungen/blatt_02/aufgabe_04/) (Implementierung einer Funktion)
+
+- [ ] Übungsblatt 3
+  - [ ] [Aufgabe 1](/uebungen/blatt_03/aufgabe_01/) (Fibonacci-Zahlen)
+  - [ ] [Aufgabe 2](/uebungen/blatt_03/aufgabe_02/) (Iterations- und Substitutionsmethode)
+  - [ ] [Aufgabe 3](/uebungen/blatt_03/aufgabe_03/) (Master-Methode)
+  - [ ] [Aufgabe 4](/uebungen/blatt_03/aufgabe_04/) (Algorithmenimplementierung)
+
+- [ ] Übungsblatt 4
+  - [x] [Aufgabe 1](/uebungen/blatt_04/aufgabe_01/) (Implementierung von Sortieralgorithmen)
+  - [x] [Aufgabe 2](/uebungen/blatt_04/aufgabe_02/) (Anpassen von Sortieralgorithmen)
+  - [ ] [Aufgabe 3](/uebungen/blatt_04/aufgabe_03/) (Anwendung von Sortieralgorithmen)
+  - [ ] [Aufgabe 4](/uebungen/blatt_04/aufgabe_04/) (Iterativ vs rekursiv)
+
 - [ ] Übungsblatt 5
-  - [x] [Aufgabe 1](/Übungen/Blatt_05/Aufgabe_01/) (MergeSort und HeapSort)
-  - [ ] [Aufgabe 2](/Übungen/Blatt_05/Aufgabe_02/) (Implementierung eines Algorithmus)
-  - [ ] [Aufgabe 3](/Übungen/Blatt_05/Aufgabe_03/) (Heaps)
-  - [ ] [Aufgabe 4](/Übungen/Blatt_05/Aufgabe_04/) (Matrixprodukt)
+  - [x] [Aufgabe 1](/uebungen/blatt_05/aufgabe_01/) (MergeSort und HeapSort)
+  - [ ] [Aufgabe 2](/uebungen/blatt_05/aufgabe_02/) (Implementierung eines Algorithmus)
+  - [ ] [Aufgabe 3](/uebungen/blatt_05/aufgabe_03/) (Heaps)
+  - [ ] [Aufgabe 4](/uebungen/blatt_05/aufgabe_04/) (Matrixprodukt)
 
 ## Markdown2pdf
 
