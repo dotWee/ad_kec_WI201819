@@ -14,6 +14,12 @@ Folgende Aufgaben wurden bearbeitet und sind sortiert nach Blatt/Aufgabe im Unte
 
     Notiz: Teilaufgabe 4b) wurde nicht bearbeitet, da Ergebnisse von 4a) möglicherweise fehlerhaft sind.
 
+- [ ] Übungsblatt 5
+  - [x] [Aufgabe 1](/Übungen/Blatt_05/Aufgabe_01/) (MergeSort und HeapSort)
+  - [ ] [Aufgabe 2](/Übungen/Blatt_05/Aufgabe_02/) (Implementierung eines Algorithmus)
+  - [ ] [Aufgabe 3](/Übungen/Blatt_05/Aufgabe_03/) (Heaps)
+  - [ ] [Aufgabe 4](/Übungen/Blatt_05/Aufgabe_04/) (Matrixprodukt)
+
 ## Markdown2pdf
 
 Installieren:
