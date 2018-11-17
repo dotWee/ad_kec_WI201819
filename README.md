@@ -46,7 +46,7 @@ Folgende Aufgaben wurden bearbeitet und sind sortiert nach Blatt/Aufgabe im Unte
 
 - [ ] Übungsblatt 7
   - [x] [Aufgabe 1](/uebungen/blatt_07/aufgabe_01/) (Binäre, verkettete Suchbäume)
-  - [ ] [Aufgabe 2](/uebungen/blatt_07/aufgabe_02/) (AVL-Bäume)
+  - [x] [Aufgabe 2](/uebungen/blatt_07/aufgabe_02/) (AVL-Bäume)
   - [ ] [Aufgabe 3](/uebungen/blatt_07/aufgabe_03/) (AVL-Bäume)
   - [ ] [Aufgabe 4](/uebungen/blatt_07/aufgabe_04/) (Sortieren mithilfe von AVL-Bäumen)
 
