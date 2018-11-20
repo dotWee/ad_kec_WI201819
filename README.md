@@ -6,7 +6,7 @@ Notizen, Anmerkungen und Lösungen zur Vorlesung Algorithmen und Datenstrukturen
 
 Folgende Aufgaben wurden bearbeitet und sind sortiert nach Blatt/Aufgabe im Unterordner [Übungen](/uebungen) zu finden:
 
-- [x] [Übungsblatt 1](/uebungen/blatt_01/) (_Abgabe bis 08.10.2018_)
+- [x] Übungsblatt 1
   - [x] [Aufgabe 1](/uebungen/blatt_01/aufgabe_01/) (Euklidischer Algorithmus)
   - [x] [Aufgabe 2](/uebungen/blatt_01/aufgabe_02/) (Abstrakter Datentyp)
   - [x] [Aufgabe 3](/uebungen/blatt_01/aufgabe_03/) (Abstrakter Datentyp)
@@ -49,6 +49,12 @@ Folgende Aufgaben wurden bearbeitet und sind sortiert nach Blatt/Aufgabe im Unte
   - [x] [Aufgabe 2](/uebungen/blatt_07/aufgabe_02/) (AVL-Bäume)
   - [x] [Aufgabe 3](/uebungen/blatt_07/aufgabe_03/) (AVL-Bäume)
   - [ ] [Aufgabe 4](/uebungen/blatt_07/aufgabe_04/) (Sortieren mithilfe von AVL-Bäumen)
+
+- [ ] Übungsblatt 8
+  - [ ] [Aufgabe 1](/uebungen/blatt_08/aufgabe_01/) (Binäre Suchbäume und AVL-Bäume)
+  - [ ] [Aufgabe 2](/uebungen/blatt_08/aufgabe_02/) (Rot-Schwarz-Bäume)
+  - [ ] [Aufgabe 3](/uebungen/blatt_08/aufgabe_03/) (B-Bäume)
+  - [ ] [Aufgabe 4](/uebungen/blatt_08/aufgabe_04/) (B-Bäume)
 
 ## Markdown2pdf
 
