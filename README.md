@@ -6,7 +6,7 @@ Notizen, Anmerkungen und Lösungen zur Vorlesung Algorithmen und Datenstrukturen
 
 Folgende Aufgaben wurden bearbeitet und sind sortiert nach Blatt/Aufgabe im Unterordner [Übungen](/uebungen) zu finden:
 
-- [x] Übungsblatt 1
+- [x] [Übungsblatt 1](/uebungen/blatt_01/)
   - [x] [Aufgabe 1](/uebungen/blatt_01/aufgabe_01/) (Euklidischer Algorithmus)
   - [x] [Aufgabe 2](/uebungen/blatt_01/aufgabe_02/) (Abstrakter Datentyp)
   - [x] [Aufgabe 3](/uebungen/blatt_01/aufgabe_03/) (Abstrakter Datentyp)
@@ -14,49 +14,49 @@ Folgende Aufgaben wurden bearbeitet und sind sortiert nach Blatt/Aufgabe im Unte
 
     Notiz: Teilaufgabe 4b) wurde nicht bearbeitet, da Ergebnisse von 4a) möglicherweise fehlerhaft sind.
 
-- [ ] Übungsblatt 2
+- [ ] [Übungsblatt 2](/uebungen/blatt_02/)
   - [ ] [Aufgabe 1](/uebungen/blatt_02/aufgabe_01/) (Registermaschinensimulator)
   - [ ] [Aufgabe 2](/uebungen/blatt_02/aufgabe_02/) (O-Notation)
   - [ ] [Aufgabe 3](/uebungen/blatt_02/aufgabe_03/) (O-Notation)
   - [ ] [Aufgabe 4](/uebungen/blatt_02/aufgabe_04/) (Implementierung einer Funktion)
 
-- [ ] Übungsblatt 3
+- [ ] [Übungsblatt 3](/uebungen/blatt_03/)
   - [ ] [Aufgabe 1](/uebungen/blatt_03/aufgabe_01/) (Fibonacci-Zahlen)
   - [ ] [Aufgabe 2](/uebungen/blatt_03/aufgabe_02/) (Iterations- und Substitutionsmethode)
   - [ ] [Aufgabe 3](/uebungen/blatt_03/aufgabe_03/) (Master-Methode)
   - [ ] [Aufgabe 4](/uebungen/blatt_03/aufgabe_04/) (Algorithmenimplementierung)
 
-- [ ] Übungsblatt 4
+- [ ] [Übungsblatt 4](/uebungen/blatt_04/)
   - [x] [Aufgabe 1](/uebungen/blatt_04/aufgabe_01/) (Implementierung von Sortieralgorithmen)
   - [x] [Aufgabe 2](/uebungen/blatt_04/aufgabe_02/) (Anpassen von Sortieralgorithmen)
   - [ ] [Aufgabe 3](/uebungen/blatt_04/aufgabe_03/) (Anwendung von Sortieralgorithmen)
   - [ ] [Aufgabe 4](/uebungen/blatt_04/aufgabe_04/) (Iterativ vs rekursiv)
 
-- [ ] Übungsblatt 5
+- [ ] [Übungsblatt 5](/uebungen/blatt_05/)
   - [x] [Aufgabe 1](/uebungen/blatt_05/aufgabe_01/) (MergeSort und HeapSort)
   - [x] [Aufgabe 2](/uebungen/blatt_05/aufgabe_02/) (Implementierung eines Algorithmus)
   - [ ] [Aufgabe 3](/uebungen/blatt_05/aufgabe_03/) (Heaps)
   - [ ] [Aufgabe 4](/uebungen/blatt_05/aufgabe_04/) (Matrixprodukt)
 
-- [ ] Übungsblatt 6
+- [ ] [Übungsblatt 6](/uebungen/blatt_06/)
   - [x] [Aufgabe 1](/uebungen/blatt_06/aufgabe_01/) (Quicksort)
   - [x] [Aufgabe 2](/uebungen/blatt_06/aufgabe_02/) (Matrixprodukt)
   - [x] [Aufgabe 3](/uebungen/blatt_06/aufgabe_03/) (Countsort, Heapsort, Mapsort)
   - [ ] [Aufgabe 4](/uebungen/blatt_06/aufgabe_04/) (Binäre, verkettete Bäume)
 
-- [ ] Übungsblatt 7
+- [ ] [Übungsblatt 7](/uebungen/blatt_07/)
   - [x] [Aufgabe 1](/uebungen/blatt_07/aufgabe_01/) (Binäre, verkettete Suchbäume)
   - [x] [Aufgabe 2](/uebungen/blatt_07/aufgabe_02/) (AVL-Bäume)
   - [x] [Aufgabe 3](/uebungen/blatt_07/aufgabe_03/) (AVL-Bäume)
   - [ ] [Aufgabe 4](/uebungen/blatt_07/aufgabe_04/) (Sortieren mithilfe von AVL-Bäumen)
 
-- [ ] Übungsblatt 8
+- [ ] [Übungsblatt 8](/uebungen/blatt_08/)
   - [x] [Aufgabe 1](/uebungen/blatt_08/aufgabe_01/) (Binäre Suchbäume und AVL-Bäume)
   - [ ] [Aufgabe 2](/uebungen/blatt_08/aufgabe_02/) (Rot-Schwarz-Bäume)
   - [ ] [Aufgabe 3](/uebungen/blatt_08/aufgabe_03/) (B-Bäume)
   - [ ] [Aufgabe 4](/uebungen/blatt_08/aufgabe_04/) (B-Bäume)
 
-- [ ] Übungsblatt 9
+- [ ] [Übungsblatt 9](/uebungen/blatt_09/)
   - [x] [Aufgabe 1](/uebungen/blatt_09/aufgabe_01/) (Hashing)
   - [x] [Aufgabe 2](/uebungen/blatt_09/aufgabe_02/) (Hashing)
   - [ ] [Aufgabe 3](/uebungen/blatt_09/aufgabe_03/) (Hashtabellen)
