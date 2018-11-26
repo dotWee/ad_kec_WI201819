@@ -60,7 +60,7 @@ Folgende Aufgaben wurden bearbeitet und sind sortiert nach Blatt/Aufgabe im Unte
   - [x] [Aufgabe 1](/uebungen/blatt_09/aufgabe_01/) (Hashing)
   - [x] [Aufgabe 2](/uebungen/blatt_09/aufgabe_02/) (Hashing)
   - [ ] [Aufgabe 3](/uebungen/blatt_09/aufgabe_03/) (Hashtabellen)
-  - [ ] [Aufgabe 4](/uebungen/blatt_09/aufgabe_04/) (Hashing mit offener Adressierung)
+  - [x] [Aufgabe 4](/uebungen/blatt_09/aufgabe_04/) (Hashing mit offener Adressierung)
 
 ## Markdown2pdf
 
