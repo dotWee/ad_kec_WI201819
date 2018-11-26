@@ -51,7 +51,7 @@ Folgende Aufgaben wurden bearbeitet und sind sortiert nach Blatt/Aufgabe im Unte
   - [ ] [Aufgabe 4](/uebungen/blatt_07/aufgabe_04/) (Sortieren mithilfe von AVL-Bäumen)
 
 - [ ] Übungsblatt 8
-  - [ ] [Aufgabe 1](/uebungen/blatt_08/aufgabe_01/) (Binäre Suchbäume und AVL-Bäume)
+  - [x] [Aufgabe 1](/uebungen/blatt_08/aufgabe_01/) (Binäre Suchbäume und AVL-Bäume)
   - [ ] [Aufgabe 2](/uebungen/blatt_08/aufgabe_02/) (Rot-Schwarz-Bäume)
   - [ ] [Aufgabe 3](/uebungen/blatt_08/aufgabe_03/) (B-Bäume)
   - [ ] [Aufgabe 4](/uebungen/blatt_08/aufgabe_04/) (B-Bäume)
