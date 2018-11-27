@@ -15,7 +15,7 @@ Folgende Aufgaben wurden bearbeitet und sind sortiert nach Blatt/Aufgabe im Unte
     Notiz: Teilaufgabe 4b) wurde nicht bearbeitet, da Ergebnisse von 4a) möglicherweise fehlerhaft sind.
 
 - [ ] [Übungsblatt 2](/uebungen/blatt_02/)
-  - [ ] [Aufgabe 1](/uebungen/blatt_02/aufgabe_01/) (Registermaschinensimulator)
+  - [x] [Aufgabe 1](/uebungen/blatt_02/aufgabe_01/) (Registermaschinensimulator)
   - [ ] [Aufgabe 2](/uebungen/blatt_02/aufgabe_02/) (O-Notation)
   - [ ] [Aufgabe 3](/uebungen/blatt_02/aufgabe_03/) (O-Notation)
   - [ ] [Aufgabe 4](/uebungen/blatt_02/aufgabe_04/) (Implementierung einer Funktion)
