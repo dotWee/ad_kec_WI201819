@@ -1,6 +1,8 @@
 {
     "files.associations": {
-        "*.h": "objective-cpp",
-        "ostream": "cpp"
+        "*.h": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp"
     }
 }
