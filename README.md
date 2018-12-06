@@ -24,7 +24,7 @@ Folgende Aufgaben wurden bearbeitet und sind sortiert nach Blatt/Aufgabe im Unte
   - [ ] [Aufgabe 1](/uebungen/blatt_03/aufgabe_01/) (Fibonacci-Zahlen)
   - [ ] [Aufgabe 2](/uebungen/blatt_03/aufgabe_02/) (Iterations- und Substitutionsmethode)
   - [ ] [Aufgabe 3](/uebungen/blatt_03/aufgabe_03/) (Master-Methode)
-  - [ ] [Aufgabe 4](/uebungen/blatt_03/aufgabe_04/) (Algorithmenimplementierung)
+  - [x] [Aufgabe 4](/uebungen/blatt_03/aufgabe_04/) (Algorithmenimplementierung)
 
 - [ ] [Übungsblatt 4](/uebungen/blatt_04/)
   - [x] [Aufgabe 1](/uebungen/blatt_04/aufgabe_01/) (Implementierung von Sortieralgorithmen)
