@@ -64,6 +64,6 @@ Folgende Aufgaben wurden bearbeitet und sind sortiert nach Blatt/Aufgabe im Unte
 
 - [ ] [Übungsblatt 10](/uebungen/blatt_10/)
   - [x] [Aufgabe 1](/uebungen/blatt_10/aufgabe_01/) (Skip-Listen)
-  - [ ] [Aufgabe 2](/uebungen/blatt_10/aufgabe_02/) (Suchalgorithmen)
+  - [x] [Aufgabe 2](/uebungen/blatt_10/aufgabe_02/) (Suchalgorithmen)
   - [ ] [Aufgabe 3](/uebungen/blatt_10/aufgabe_03/) (Suchalgorithmen)
   - [ ] [Aufgabe 4](/uebungen/blatt_10/aufgabe_04/) (Laufzeitabschätzung von NaiveSearch)
