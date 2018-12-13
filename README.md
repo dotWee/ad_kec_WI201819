@@ -38,11 +38,11 @@ Folgende Aufgaben wurden bearbeitet und sind sortiert nach Blatt/Aufgabe im Unte
   - [ ] [Aufgabe 3](/uebungen/blatt_05/aufgabe_03/) (Heaps)
   - [ ] [Aufgabe 4](/uebungen/blatt_05/aufgabe_04/) (Matrixprodukt)
 
-- [ ] [Übungsblatt 6](/uebungen/blatt_06/)
+- [x] [Übungsblatt 6](/uebungen/blatt_06/)
   - [x] [Aufgabe 1](/uebungen/blatt_06/aufgabe_01/) (Quicksort)
   - [x] [Aufgabe 2](/uebungen/blatt_06/aufgabe_02/) (Matrixprodukt)
   - [x] [Aufgabe 3](/uebungen/blatt_06/aufgabe_03/) (Countsort, Heapsort, Mapsort)
-  - [ ] [Aufgabe 4](/uebungen/blatt_06/aufgabe_04/) (Binäre, verkettete Bäume)
+  - [x] [Aufgabe 4](/uebungen/blatt_06/aufgabe_04/) (Binäre, verkettete Bäume)
 
 - [ ] [Übungsblatt 7](/uebungen/blatt_07/)
   - [x] [Aufgabe 1](/uebungen/blatt_07/aufgabe_01/) (Binäre, verkettete Suchbäume)
