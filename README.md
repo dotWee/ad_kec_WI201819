@@ -72,4 +72,4 @@ Folgende Aufgaben wurden bearbeitet und sind sortiert nach Blatt/Aufgabe im Unte
   - [ ] [Aufgabe 1](/uebungen/blatt_11/aufgabe_01/) (Adjazenzmatrix)
   - [ ] [Aufgabe 2](/uebungen/blatt_11/aufgabe_02/) (Inzidenzmatrix)
   - [x] [Aufgabe 3](/uebungen/blatt_11/aufgabe_03/) (Maximale Cliquen)
-  - [ ] [Aufgabe 4](/uebungen/blatt_11/aufgabe_04/) (Graphen)
+  - [x] [Aufgabe 4](/uebungen/blatt_11/aufgabe_04/) (Graphen)
