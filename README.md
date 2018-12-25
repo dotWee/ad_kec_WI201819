@@ -79,3 +79,9 @@ Folgende Aufgaben wurden bearbeitet und sind sortiert im Format _/blatt_xx/aufga
   - [ ] [Aufgabe 2](/uebungen/blatt_12/aufgabe_02/) (Gerichtete azyklische Graphen)
   - [ ] [Aufgabe 3](/uebungen/blatt_12/aufgabe_03/) (Kruskal-Algorithmus, Prim-Algorithmus)
   - [ ] [Aufgabe 4](/uebungen/blatt_12/aufgabe_04/) (Dijkstra-Algorithmus, Bellman-Ford-Algorithmus)
+
+- [ ] [Übungsblatt 13](/uebungen/blatt_13/)
+  - [ ] [Aufgabe 1](/uebungen/blatt_13/aufgabe_01/) (AllPairsShortestPaths)
+  - [ ] [Aufgabe 2](/uebungen/blatt_13/aufgabe_02/) (Floyd-Warshall-Algorithmus)
+  - [ ] [Aufgabe 3](/uebungen/blatt_13/aufgabe_03/) (Lernen regulärer Sprachen)
+  - [ ] [Aufgabe 4](/uebungen/blatt_13/aufgabe_04/) (Textsuche mittels Automaten)
