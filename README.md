@@ -1,10 +1,10 @@
 # ad_kec_WI201819
 
-Notizen, Anmerkungen und Lösungen zur Vorlesung Algorithmen und Datenstrukturen (AD/WI201718) in der Medizinischen Informatik (OTH/IM3) im Wintersemester 2018/19
+Notizen, Anmerkungen und Lösungen zur Vorlesung Algorithmen und Datenstrukturen (**AD**) bei Prof. Dr. Carsten Kern im Wintersemester 2018/19 (**WI201819**) in der Medizinischen Informatik (**OTH/IM3**).
 
 ## Übungsaufgaben
 
-Folgende Aufgaben wurden bearbeitet und sind sortiert nach Blatt/Aufgabe im Unterordner [Übungen](/uebungen) zu finden:
+Folgende Aufgaben wurden bearbeitet und sind sortiert im Format _/blatt_xx/aufgabe_xx_ im Unterordner [Übungen](/uebungen) zu finden:
 
 - [x] [Übungsblatt 1](/uebungen/blatt_01/)
   - [x] [Aufgabe 1](/uebungen/blatt_01/aufgabe_01/) (Euklidischer Algorithmus)
@@ -73,3 +73,9 @@ Folgende Aufgaben wurden bearbeitet und sind sortiert nach Blatt/Aufgabe im Unte
   - [ ] [Aufgabe 2](/uebungen/blatt_11/aufgabe_02/) (Inzidenzmatrix)
   - [x] [Aufgabe 3](/uebungen/blatt_11/aufgabe_03/) (Maximale Cliquen)
   - [x] [Aufgabe 4](/uebungen/blatt_11/aufgabe_04/) (Graphen)
+
+- [ ] [Übungsblatt 12](/uebungen/blatt_12/)
+  - [ ] [Aufgabe 1](/uebungen/blatt_12/aufgabe_01/) (Zyklen in Graphen)
+  - [ ] [Aufgabe 2](/uebungen/blatt_12/aufgabe_02/) (Gerichtete azyklische Graphen)
+  - [ ] [Aufgabe 3](/uebungen/blatt_12/aufgabe_03/) (Kruskal-Algorithmus, Prim-Algorithmus)
+  - [ ] [Aufgabe 4](/uebungen/blatt_12/aufgabe_04/) (Dijkstra-Algorithmus, Bellman-Ford-Algorithmus)
